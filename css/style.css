@@ -1,9 +1,5 @@
-.btn-box { text-align: center; }
+.btn-box, .new-game-btn { text-align: center; padding: 10px; }
 
 .btn { width: 200px; height: 100px; font-size: 30px; cursor: pointer; }
 
-#output { text-align: center; border: 3px solid red; }
-
-#round { text-align: center; border: 3px solid orange; }
-
-#result { text-align: center; border: 3px solid blue; }
+#output, #round, #result, #final-result, #message { text-align: center; }
